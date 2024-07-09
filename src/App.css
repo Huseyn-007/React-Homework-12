@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.non-select{
+  background-color: transparent;
+}
+
+.select{
+  background-color: #61dafb;
+}
